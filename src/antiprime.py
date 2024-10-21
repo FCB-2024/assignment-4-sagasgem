@@ -12,7 +12,7 @@ def main():
         i = 1
         while (i <= n):
             if (n % i == 0):
-                y += 1  #
+                y += 1  
             i += 1
         return y
 
